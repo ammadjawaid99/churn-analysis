@@ -2,6 +2,12 @@
 
 This Jupyter notebook analyzes customer data from a telecom company to build machine learning models that can predict whether a customer will churn or not. Churn prediction is an important task for any company as retaining existing customers is typically much more cost effective than acquiring new ones.
 
+### Technologies Used
+
+- Python
+- pandas, matplotlib for data analysis and visualization
+- scikit-learn for machine learning modeling
+
 The notebook performs the following key steps:
 
 ### Data Collection and Pre-processing
